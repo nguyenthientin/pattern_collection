@@ -1,0 +1,6 @@
+test
+.vscode
+*pycache*
+*.ipynb
+*old*
+experiment.py
